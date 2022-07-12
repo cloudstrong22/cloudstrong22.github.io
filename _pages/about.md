@@ -17,6 +17,6 @@ Sumanth’s publication consist of  8 peer-reviewed scientific articles , 50+ Pa
 
 News
 ======
-SAE magazine
+SAE magazine /
 EcoCAr2
 
