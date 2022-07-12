@@ -5,8 +5,8 @@ permalink: /publication/BATT_SAE_CRG
 excerpt: 'This paper is about 12V Aux Battery voltage Conrol.'
 date: 2021-11-03
 venue: 'SAE WCX'
-paperurl: 'https://sumanthme03.github.io/files/BATT_SAE_CRG'
+paperurl: 'https://sumanthme03.github.io/files/BATT_SAE_CRG.pdf'
 citation: #'Sumanth Dadam'
 ---
 
-[Download paper here](https://sumanthme03.github.io/files/BATT_SAE_CRG)
+[Download paper here](https://sumanthme03.github.io/files/BATT_SAE_CRG.pdf)
