@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/EGR_IJER
 excerpt: 'This paper is about EGR Control methods .'
 date: 2021-11-03
-venue: 'Internal Journal of engines'
+venue: 'Internal Journal of engine Research'
 paperurl: 'https://sumanthme03.github.io/files/EGR_IJER.pdf'
 citation: #'Sumanth Dadam'
 ---
