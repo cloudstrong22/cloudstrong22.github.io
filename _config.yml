@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sumanth Reddy Dadam"
-  avatar           : "profile.png"
+  avatar           : "assets/profile.png"
   bio              : "Product development Research engineer"
   location         : "Dearborn"
   employer         :
