@@ -1,4 +1,4 @@
-o# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +7,7 @@ o# Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Sumanth Reddy Dadam Research"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
