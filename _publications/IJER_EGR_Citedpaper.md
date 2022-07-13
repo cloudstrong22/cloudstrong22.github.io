@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/IJER_EGR_Citedpaper
 excerpt: ''
 date: 2021-11-03
-venue: 'Combustion Engines'
+venue: ''
 paperurl: 'https://sumanthme03.github.io/files/IJER_Application_of_Low.pdf'
 citation: #'Sumanth Dadam'
 ---
