@@ -1,8 +1,8 @@
 
 ---
 permalink: /publication/peer_review
-title: "Peer-reviewed Publications "
-excerpt: "Peer-reviewed Publications"
+title: "Publications "
+excerpt: " "
 author_profile: true
 redirect_from: 
   - /publication/
