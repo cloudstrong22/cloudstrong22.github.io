@@ -11,7 +11,7 @@ citation: #''
 
 ---
 
-[Download paper here]: (https://sumanthme03.github.io/files/IJER_Calculation_Methods.pdf)
+[Download paper here]: (https://sumanthme03.github.io/files/IJER_Calculation_Methods.pdf) 
 
 
 
