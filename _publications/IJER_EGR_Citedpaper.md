@@ -1,15 +1,19 @@
 
 ---
-permalink: /publication/IJER_EGR_Citedpaper
-message: "Referenced in the following papers"
+title: "referenced papers - Effects of differential pressure measurement"
 collection: publications
-title: "Effects of differential pressure measurement characteristics on high pressure-EGR estimation error in SI-engines Referenced in the following papers "
+permalink: /publication/IJER_EGR_Citedpaper
+excerpt: ''
+date: 
+venue: ''
+paperurl: ''
+citation: #'Sumanth Dadam'
 ---
 
-url: 'https://sumanthme03.github.io/files/IJER_Application_of_Low.pdf'
-url: 'https://sumanthme03.github.io/files/IJER_Calculation_Methods.pdf'
-url: 'https://sumanthme03.github.io/files/IJER_Datadriven.pdf'
-url: 'https://sumanthme03.github.io/files/IJER_Innovative_Design.pdf'
-url: 'https://sumanthme03.github.io/files/IJER_Quantifying_the.pdf'
-url: 'https://sumanthme03.github.io/files/IJER_Whirl_Analysi.pdf'
+[Download paper here]: 'https://sumanthme03.github.io/files/IJER_Application_of_Low.pdf'
+[Download paper here]: 'https://sumanthme03.github.io/files/IJER_Calculation_Methods.pdf'
+[Download paper here]: 'https://sumanthme03.github.io/files/IJER_Datadriven.pdf'
+[Download paper here]: 'https://sumanthme03.github.io/files/IJER_Innovative_Design.pdf'
+[Download paper here]: 'https://sumanthme03.github.io/files/IJER_Quantifying_the.pdf'
+[Download paper here]: 'https://sumanthme03.github.io/files/IJER_Whirl_Analysi.pdf'
 
