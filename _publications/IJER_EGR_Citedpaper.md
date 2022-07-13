@@ -1,15 +1,17 @@
 
 ---
-title:"IJER Rerefenced papers"
+title: "Refrenced works Effects of differential pressure measurement -EGR "
 collection: publications
-permalink: /publications/IJER_EGR_Citedpaper
-excerpt: ''
-date: 
-venue: ''
+permalink: /publication/IJER_EGR_Citedpaper
 ---
 
-These are referenced works of EGR IJER 
- url:(https://sumanthme03.github.io/files/IJER_Application_of_Low.pdf).
+[Download paper here](https://sumanthme03.github.io/files/IJER_Application_of_Low.pdf)
+[Download paper here]: (https://sumanthme03.github.io/files/IJER_Calculation_Methods.pdf)
+[Download paper here]: (https://sumanthme03.github.io/files/IJER_Datadriven.pdf)
+[Download paper here]: (https://sumanthme03.github.io/files/IJER_Innovative_Design.pdf)
+[Download paper here]: (https://sumanthme03.github.io/files/IJER_Quantifying_the.pdf)
+[Download paper here]: (https://sumanthme03.github.io/files/IJER_Whirl_Analysi.pdf)
+
 
 
 
