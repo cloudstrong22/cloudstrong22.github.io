@@ -1,7 +1,7 @@
 
 ---
 
-collection: publications
+collection: Publications
 permalink: /publications/IJER_EGR_Citedpaper
 excerpt: ''
 date: 
