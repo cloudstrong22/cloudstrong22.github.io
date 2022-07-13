@@ -1,5 +1,5 @@
 ---
-title: "EGR DP research referenced - Appl of low"
+title: "EGR DP research referenced by Appl of low"
 collection: publications
 permalink: /publication/IJER_EGR_Citedpaper
 excerpt: ''
