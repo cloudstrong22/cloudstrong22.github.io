@@ -1,6 +1,6 @@
 
 ---
-permalink: /publications/peer_review
+permalink: /publication/peer_review
 title: "Peer review Publications "
 excerpt: " "
 author_profile: true
