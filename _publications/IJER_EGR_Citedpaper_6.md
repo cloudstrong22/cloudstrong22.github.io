@@ -3,7 +3,7 @@ title: "EGR DP research referenced - IJER_Whirl_Analysi"
 collection: publications
 permalink: /publication/IJER_EGR_Citedpaper_6
 excerpt: ''
-date: 
+date: 2021-11-03
 venue: ''
 paperurl: 'https://sumanthme03.github.io/files/IJER_Whirl_Analysi.pdf'
 citation: #''
