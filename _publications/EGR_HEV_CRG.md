@@ -10,3 +10,4 @@ citation: #'Sumanth Dadam'
 ---
 
 [Download paper here](https://sumanthme03.github.io/files/EGR_HEV_CRG.pdf)
+[Download paper here]: (https://sumanthme03.github.io/files/IJER_Calculation_Methods.pdf)
