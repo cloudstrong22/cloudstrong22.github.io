@@ -1,4 +1,3 @@
-
 ---
 title: "EGR DP research referenced - IJER_Whirl_Analysi"
 collection: publications
