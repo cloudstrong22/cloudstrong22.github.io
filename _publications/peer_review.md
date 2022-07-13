@@ -1,12 +1,12 @@
 
 ---
-permalink: /publication/peer_review
+permalink: /publication/
 title: "Publications "
 excerpt: " "
 author_profile: true
 redirect_from: 
   - /publication/
-  - /publication.html
+  - /peer_review.md
 ---
 
 
