@@ -2,7 +2,7 @@
 ---
 
 collection: publications
-permalink: /publication/IJER_EGR_Citedpaper
+permalink: /publications/IJER_EGR_Citedpaper
 excerpt: ''
 date: 
 venue: ''
