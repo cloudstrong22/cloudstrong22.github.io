@@ -1,4 +1,3 @@
-
 ---
 title: "EGR DP research referenced - Quantifying_the"
 collection: publications
