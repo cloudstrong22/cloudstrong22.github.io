@@ -1,6 +1,9 @@
 
-
-message: "Effects of differential pressure measurement characteristics on high pressure-EGR estimation error in SI-engines - Referenced in the following papers "
+---
+message: "Referenced in the following papers"
+collection: publications
+title: "Effects of differential pressure measurement characteristics on high pressure-EGR estimation error in SI-engines - Referenced in the following papers "
+---
 
 url: 'https://sumanthme03.github.io/files/IJER_Application_of_Low.pdf'
 url: 'https://sumanthme03.github.io/files/IJER_Calculation_Methods.pdf'
