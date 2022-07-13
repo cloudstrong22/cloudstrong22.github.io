@@ -1,4 +1,3 @@
-
 ---
 title: "EGR DP research referenced by Calcul of low"
 collection: publications
