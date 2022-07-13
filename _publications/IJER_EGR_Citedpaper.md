@@ -3,7 +3,7 @@ title: "EGR DP research referenced - Appl of low"
 collection: publications
 permalink: /publication/IJER_EGR_Citedpaper
 excerpt: ''
-date: 
+date: 2021-11-03
 venue: ''
 paperurl: 'https://sumanthme03.github.io/files/IJER_Application_of_Low.pdf'
 citation: #''
