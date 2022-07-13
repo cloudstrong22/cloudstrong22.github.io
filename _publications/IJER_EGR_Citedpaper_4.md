@@ -1,4 +1,3 @@
-
 ---
 title: "EGR DP research referenced - Innovative_Design"
 collection: publications
