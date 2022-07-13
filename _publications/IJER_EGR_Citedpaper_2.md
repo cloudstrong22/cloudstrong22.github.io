@@ -1,6 +1,6 @@
 
 ---
-title: "EGR DP research referenced - Calcul of low"
+title: "EGR DP research referenced by Calcul of low"
 collection: publications
 permalink: /publication/IJER_EGR_Citedpaper_2
 excerpt: ''
