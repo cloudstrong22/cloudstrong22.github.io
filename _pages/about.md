@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,12 +11,14 @@ redirect_from:
 
 About me
 ======
-Sumanth specialized research focusses on Emissions control techniques and algorithms to improve engine efficiency and meet emission standards. This includes new OBD analysis techniques for EGR, GPF. My Findings progress other researchers understanding of next generation powertrain actuators and sensors as it applies to electronic devices and Hybrid electric vehicles ,particularly in the electronics and automotive industries of the United states needed in achieving decreased Particulate emissions and increase Powertrain efficiency
+I am a research scholar who focusses on Energy Management Strategies (EMS) to reduce energy consumption and emissions. This includes cutting-edge machine learning techniques for State of Charge (SOC) prediction and State of Health (SOH) estimation. My research findings progress other researchers understanding of next generation battery control hardware and software.
 
-Sumanth’s publication consist of  8 peer-reviewed scientific articles , 50+ Patents/Patent applications in the area of Powertrain Controls with patents Licensed internationally under a confidential licensing agreement .He holds 165 citations of which 120 citations from peer-reviewed scientific articles and 45 citations from patents . Sumanth also conducted 100 reviews for distinguished Journals, Conference, invited speaker for several International conferences and he is also the Associate Editor for two prestigious journals in the area of Hybridization and mobility :  SAE International Journal of Engines  and International journal of engines .Sumanth works with Government agencies like California Air Resource Board , Environment Protection Agency  in the rulemaking process for Emission regulations, drafting the framework with several other industry experts under NOx   Tracking Parameter Accuracy Task Force committee .
+I taught a graduate seminar in Machine Learning, an undergraduate course in Battery SOC Estimation, and a crossover course in Battery Management System. Occasionally, I teach Battery Modeling and Controls 101.
+
+I have 15 peer-reviewed scientific articles, 35 patents/patent applications in the area of Powertrain Controls. I have reviewed 99 distinguished journals, conference papers and presentations.
 
 News
 ======
-SAE magazine 
-EcoCAr2
+Formula SAE Electric 
+IEEE Industrial Electronics Magazine
 
