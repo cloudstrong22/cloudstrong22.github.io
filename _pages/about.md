@@ -20,5 +20,5 @@ I have 15 peer-reviewed scientific articles, 35 patents/patent applications in t
 News
 ======
 Formula SAE Electric 
-IEEE Industrial Electronics Magazine
+
 
