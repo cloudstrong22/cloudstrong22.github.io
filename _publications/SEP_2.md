@@ -11,9 +11,3 @@ citation: #''
 ---
 
 [Download paper here]: (https://cloudstrong22.github.io/files/SEP_2.pdf)
-
-
-
-
-
-
