@@ -1,16 +1,16 @@
 ---
-title: "AUG_13"
+title: "SEP_2"
 collection: publications
-permalink: /publication/AUG_13
+permalink: /publication/SEP_2
 excerpt: ''
-date: 2022-08-30
+date: 2022-03-29
 venue: ''
-paperurl: 'https://sumanthme03.github.io/files/AUG_13.pdf'
+paperurl: 'https://cloudstrong22.github.io/files/SEP_2.pdf'
 citation: #''
 
 ---
 
-[Download paper here]: (https://sumanthme03.github.io/files/AUG_13.pdf)
+[Download paper here]: (https://cloudstrong22.github.io/files/SEP_2.pdf)
 
 
 
