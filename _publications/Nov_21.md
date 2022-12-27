@@ -1,7 +1,7 @@
 ---
 title: "Nov_21"
 collection: publications
-permalink: /publication/Nov_22
+permalink: /publication/Nov_21
 excerpt: ''
 date: 2022-03-29
 venue: ''
